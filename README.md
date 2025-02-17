@@ -58,7 +58,7 @@ L'application peut être déployée sur un serveur avec **Gunicorn** et **NGINX*
 Ce projet utilise le modèle `hakurei/waifu-diffusion` pour la génération d'images. Ce modèle est conçu pour produire des images d'anime de haute qualité.
 
 ## Auteur
-- [Ton GitHub](https://github.com/Eyub4k)
+- [Eyub4k](https://github.com/Eyub4k)
 
 ## Contributions
 Les contributions sont les bienvenues ! N'hésite pas à ouvrir une issue ou à proposer une pull request.
